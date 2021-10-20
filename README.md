@@ -38,7 +38,7 @@ database won't be altered<br>
 • --help – output the above list of directives with details.<br>
 
 # Default connection details<br><br><br>
-user : root<br><br>
+user : root<br>
 password : blank ( not set )<br>
 host : localhost or 127.0.0.1<br>
 Your connection details may difer depending of your server configuration. <br>
